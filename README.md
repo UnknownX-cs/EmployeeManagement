@@ -1,20 +1,17 @@
 # EmployeeManagement
 A Simple C# system that allows basic CRUD operations by managing employee records.
 
-# Employee Management System
-
-A simple employee manager web app using ASP.NET Core + HTML/CSS + JavaScript.
-
 ## Features
 - Add/Edit/Delete employees
 - Archive and restore records
-- Modal-based forms
+- Modal forms
 - Sidebar navigation
 - Search and filter employees
 
 ## Technologies
 - ASP.NET Core Web API
 - Entity Framework Core
+- HTTP VERBS
 - Bootstrap 5
 - Vanilla JS
 
