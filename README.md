@@ -25,21 +25,3 @@ A Simple C# system that allows basic CRUD operations by managing employee record
 ### Frontend
 1. Open `index.html` in a browser (or host via local server)
 2. Make sure the backend is running at `http://localhost:5159`
-
----
-
-### 🌐 2. Check Your Repository
-
-Go to:  
-👉 [https://github.com/UnknownX-cs/EmployeeManagement](https://github.com/UnknownX-cs/EmployeeManagement)
-
-Make sure:
-- Files are uploaded
-- README is showing
-- Commit history looks good
-
----
-
-### 💡 Optional: Add `.gitignore`
-
-If you're pushing from a .NET project, it’s smart to ignore `bin`, `obj`, and user settings. Add this file as `.gitignore`:
